@@ -1,0 +1,13 @@
+h1{ color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h4{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.bg-img{
+    background-image: url("https://codetapper.com/assets/street_fighter_2/backgrounds/guile_background.png");
+    min-height: 50vh;
+    background-size: cover;
+}

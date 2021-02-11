@@ -61,7 +61,6 @@ let healthBar = document.getElementById("bar")
 
 
 function update(){
-    if(armorUses=true)
 
     let healthElement = document.getElementById("health");
     healthElement.innerText = `${guile.health}`;
